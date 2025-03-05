@@ -30,7 +30,7 @@ Disadvantages: Rigid, difficult to adapt to changes, testing happens late in the
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 1.Agile is beneficial for:  
 Projects requiring frequent updates and changes, such as mobile apps, SaaS platforms, and AI-based software.  
-Example: A startup developing a new AI chatbot that needs continuous user feedback and improvement.
+Example: A startup developing a new AI chatbot that needs continuous user feedback and improvement.   
 Waterfall is beneficial for:  
 Large-scale projects with fixed requirements, such as banking systems or government software.  
 Example: A payroll management system for a corporate organization with strict regulatory requirements.  
